@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083924923202",
+    "project_id": "infa-care-app",
+    "storage_bucket": "infa-care-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083924923202:android:7f8b6f0ad43bf0ec26fedb",
+        "android_client_info": {
+          "package_name": "com.luci.infa_care.infa_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVvjy_Ukf7TcHuEDOq7g_AjP9vwn9UoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
